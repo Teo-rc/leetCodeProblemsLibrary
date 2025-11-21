@@ -8,7 +8,7 @@ public class Foo {
     public synchronized void first(Runnable printFirst) {
         printFirst.run();
         this.first = true;
-        notify();
+        notifyAll();
     }
 
     public synchronized void second(Runnable printSecond) throws InterruptedException {
