@@ -1,4 +1,4 @@
-package problems.concurrency.printinorder;
+package problems.concurrency;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

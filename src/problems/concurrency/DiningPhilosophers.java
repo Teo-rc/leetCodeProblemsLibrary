@@ -1,4 +1,4 @@
-package problems.concurrency.diningPhilosophers;
+package problems.concurrency;
 
 public class DiningPhilosophers {
 

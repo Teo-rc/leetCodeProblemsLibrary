@@ -1,4 +1,4 @@
-package problems.concurrency.fizzBuzz;
+package problems.concurrency;
 
 import java.util.function.IntConsumer;
 

@@ -1,9 +1,8 @@
-package problems.concurrency;
+package problems;
 
-
-import problems.concurrency.printinorder.Foo;
-import problems.concurrency.printwithalternate.FooBar;
-import problems.concurrency.zeroEvenOdd.ZeroEvenOdd;
+import problems.concurrency.Foo;
+import problems.concurrency.FooBar;
+import problems.concurrency.ZeroEvenOdd;
 
 public class Main {
 
